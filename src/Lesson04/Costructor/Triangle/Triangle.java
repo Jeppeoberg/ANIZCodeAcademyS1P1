@@ -31,6 +31,6 @@ public class Triangle {
                 ", sideB = " + sideB +
                 ", sideC = " + sideC);
         System.out.println("Perimeter = " + getPerimeter());
-        System.out.println("Area = " + getArea());
+        System.out.println("Area = " + sideA);
     }
 }
